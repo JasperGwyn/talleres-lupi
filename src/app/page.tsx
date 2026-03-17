@@ -40,9 +40,21 @@ function ordenarTalleres(
   return copia;
 }
 
+function SkeletonCard(): React.ReactElement {
+  return (
+    <article className="rounded-xl border border-border bg-surface-elevated p-5 shadow-soft">
+      <div className="h-5 w-3/4 animate-pulse rounded bg-primary-light" />
+      <div className="mt-3 h-4 w-1/2 animate-pulse rounded bg-border" />
+      <div className="mt-2 h-4 w-2/3 animate-pulse rounded bg-border" />
+      <div className="mt-4 h-6 w-24 animate-pulse rounded-full bg-accent-light" />
+    </article>
+  );
+}
+
 export default function Home(): React.ReactElement {
   const [talleres, setTalleres] = useState<TallerConDistancia[]>([]);
   const [loading, setLoading] = useState(true);
+  const [busqueda, setBusqueda] = useState("");
   const [diaSeleccionado, setDiaSeleccionado] = useState("");
   const [distanciaMaxKm, setDistanciaMaxKm] = useState("");
   const [ordenarPor, setOrdenarPor] = useState<
@@ -50,7 +62,7 @@ export default function Home(): React.ReactElement {
   >("dia");
 
   useEffect(() => {
-    fetch("/talleres-lupita.json")
+    fetch("/talleres.json")
       .then((r) => r.json())
       .then((data: TallerConDistancia[]) => {
         setTalleres(data);
@@ -61,6 +73,15 @@ export default function Home(): React.ReactElement {
 
   const filtrados = useMemo(() => {
     let out = talleres;
+    if (busqueda.trim()) {
+      const q = busqueda.trim().toLowerCase();
+      out = out.filter(
+        (t) =>
+          t.nombre.toLowerCase().includes(q) ||
+          t.centro.toLowerCase().includes(q) ||
+          t.barrio.toLowerCase().includes(q)
+      );
+    }
     if (diaSeleccionado) {
       out = out.filter((t) => t.dia === diaSeleccionado);
     }
@@ -69,50 +90,92 @@ export default function Home(): React.ReactElement {
       out = out.filter((t) => t.kmDesdeCharcas3445 <= maxKm);
     }
     return ordenarTalleres(out, ordenarPor);
-  }, [talleres, diaSeleccionado, distanciaMaxKm, ordenarPor]);
+  }, [talleres, busqueda, diaSeleccionado, distanciaMaxKm, ordenarPor]);
 
   if (loading) {
     return (
-      <main className="min-h-screen bg-gray-100 p-6">
-        <h1 className="text-2xl font-bold text-gray-900">
-          Talleres PCB para Lupita
-        </h1>
-        <p className="mt-2 text-gray-600">Cargando talleres...</p>
+      <main className="min-h-dvh bg-surface px-4 py-8 sm:px-6 sm:py-10 lg:px-8">
+        <div className="mx-auto max-w-7xl">
+          <header className="mb-8">
+            <div className="h-9 w-64 animate-pulse rounded bg-primary-light" />
+            <div className="mt-2 h-5 w-96 animate-pulse rounded bg-border" />
+          </header>
+          <div className="mb-8 h-24 animate-pulse rounded-xl bg-border" />
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {Array.from({ length: 9 }).map((_, i) => (
+              <SkeletonCard key={i} />
+            ))}
+          </div>
+        </div>
       </main>
     );
   }
 
   return (
-    <main className="min-h-screen bg-gray-100 p-6">
-      <header className="mb-6">
-        <h1 className="text-3xl font-bold text-gray-900">
-          Talleres PCB para Lupita
-        </h1>
-        <p className="mt-1 text-gray-600">
-          Talleres para niños (~10 años) · Programa Cultural en Barrios · Desde
-          Charcas 3445, Palermo
-        </p>
-      </header>
+    <>
+      <a href="#contenido-principal" className="skip-link">
+        Saltar al contenido
+      </a>
+      <main
+        id="contenido-principal"
+        className="min-h-dvh bg-surface px-4 py-8 sm:px-6 sm:py-10 lg:px-8"
+        role="main"
+      >
+        <div className="mx-auto max-w-7xl">
+        <header className="mb-8">
+          <h1 className="font-display text-3xl font-bold text-text-primary sm:text-4xl">
+            Talleres PCB para niños
+          </h1>
+          <p className="mt-2 text-base text-text-secondary">
+            Talleres para niños (~10 años) ·{" "}
+            <a
+              href="https://buenosaires.gob.ar/gcaba_historico/cultura/promocioncultural/programacion-pcb"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:underline"
+            >
+              Programa Cultural en Barrios
+            </a>
+            {" · "}
+            Desde Palermo
+          </p>
+          <p className="mt-2 text-sm text-text-secondary">
+            ¿Dudas? Escribime a{" "}
+            <a
+              href="mailto:tom@operia.ar"
+              className="text-primary hover:underline"
+            >
+              tom@operia.ar
+            </a>
+          </p>
+        </header>
 
-      <Filtros
-        diaSeleccionado={diaSeleccionado}
-        distanciaMaxKm={distanciaMaxKm}
-        ordenarPor={ordenarPor}
-        onDiaChange={setDiaSeleccionado}
-        onDistanciaChange={setDistanciaMaxKm}
-        onOrdenarChange={setOrdenarPor}
-      />
+        <Filtros
+          busqueda={busqueda}
+          diaSeleccionado={diaSeleccionado}
+          distanciaMaxKm={distanciaMaxKm}
+          ordenarPor={ordenarPor}
+          onBusquedaChange={setBusqueda}
+          onDiaChange={setDiaSeleccionado}
+          onDistanciaChange={setDistanciaMaxKm}
+          onOrdenarChange={setOrdenarPor}
+        />
 
-      <section className="mt-6">
-        <h2 className="mb-4 text-lg font-semibold text-gray-800">
-          {filtrados.length} talleres
-        </h2>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {filtrados.map((taller, i) => (
-            <TallerCard key={`${taller.centro}-${taller.nombre}-${i}`} taller={taller} />
-          ))}
+        <section className="mt-8">
+          <h2 className="mb-4 font-display text-lg font-semibold text-text-primary">
+            {filtrados.length} talleres
+          </h2>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {filtrados.map((taller, i) => (
+              <TallerCard
+                key={`${taller.centro}-${taller.nombre}-${i}`}
+                taller={taller}
+              />
+            ))}
+          </div>
+        </section>
         </div>
-      </section>
-    </main>
+      </main>
+    </>
   );
 }

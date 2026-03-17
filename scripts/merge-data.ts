@@ -3,10 +3,11 @@
  */
 import * as fs from "fs";
 import * as path from "path";
+import { getPdfUrlForCentro } from "../data/centro-pdf-urls";
 
 const TALLERES_PATH = path.join(process.cwd(), "data", "talleres.json");
 const CENTROS_PATH = path.join(process.cwd(), "data", "centros-con-distancia.json");
-const OUTPUT_PATH = path.join(process.cwd(), "public", "talleres-lupita.json");
+const OUTPUT_PATH = path.join(process.cwd(), "public", "talleres.json");
 
 interface Taller {
   nombre: string;
@@ -29,6 +30,7 @@ interface Centro {
 interface TallerConDistancia extends Taller {
   direccion: string;
   kmDesdeCharcas3445: number;
+  pdfUrl?: string;
 }
 
 function main(): void {
@@ -49,17 +51,20 @@ function main(): void {
   const resultado: TallerConDistancia[] = [];
   for (const t of talleres) {
     const centro = centrosMap.get(t.centro);
+    const pdfUrl = getPdfUrlForCentro(t.centro);
     if (centro) {
       resultado.push({
         ...t,
         direccion: centro.direccion,
         kmDesdeCharcas3445: centro.kmDesdeCharcas3445,
+        ...(pdfUrl && { pdfUrl }),
       });
     } else {
       resultado.push({
         ...t,
         direccion: "",
         kmDesdeCharcas3445: 999,
+        ...(pdfUrl && { pdfUrl }),
       });
     }
   }

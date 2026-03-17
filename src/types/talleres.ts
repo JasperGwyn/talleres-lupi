@@ -7,6 +7,7 @@ export interface TallerConDistancia {
   edad: string;
   direccion: string;
   kmDesdeCharcas3445: number;
+  pdfUrl?: string;
 }
 
 export const DIAS_ORDEN: string[] = [

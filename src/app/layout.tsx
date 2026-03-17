@@ -1,9 +1,22 @@
 import type { Metadata } from "next";
+import { Nunito, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
 
+const nunito = Nunito({
+  subsets: ["latin"],
+  variable: "--font-nunito",
+  display: "swap",
+});
+
+const sourceSans = Source_Sans_3({
+  subsets: ["latin"],
+  variable: "--font-source-sans",
+  display: "swap",
+});
+
 export const metadata: Metadata = {
-  title: "Talleres PCB para Lupita",
-  description: "Talleres artístico-culturales para niños de 10 años en CABA",
+  title: "Talleres PCB para niños",
+  description: "Talleres artístico-culturales para niños en CABA · Programa Cultural en Barrios",
 };
 
 export default function RootLayout({
@@ -12,8 +25,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="es">
-      <body className="antialiased">{children}</body>
+    <html lang="es" className={`${nunito.variable} ${sourceSans.variable}`}>
+      <body className="font-sans antialiased">{children}</body>
     </html>
   );
 }
