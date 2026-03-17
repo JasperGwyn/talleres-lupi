@@ -44,6 +44,7 @@ export default function Home(): React.ReactElement {
   const [talleres, setTalleres] = useState<TallerConDistancia[]>([]);
   const [loading, setLoading] = useState(true);
   const [diaSeleccionado, setDiaSeleccionado] = useState("");
+  const [distanciaMaxKm, setDistanciaMaxKm] = useState("");
   const [ordenarPor, setOrdenarPor] = useState<
     "dia" | "horario" | "distancia"
   >("dia");
@@ -63,8 +64,12 @@ export default function Home(): React.ReactElement {
     if (diaSeleccionado) {
       out = out.filter((t) => t.dia === diaSeleccionado);
     }
+    if (distanciaMaxKm) {
+      const maxKm = parseFloat(distanciaMaxKm);
+      out = out.filter((t) => t.kmDesdeCharcas3445 <= maxKm);
+    }
     return ordenarTalleres(out, ordenarPor);
-  }, [talleres, diaSeleccionado, ordenarPor]);
+  }, [talleres, diaSeleccionado, distanciaMaxKm, ordenarPor]);
 
   if (loading) {
     return (
@@ -91,8 +96,10 @@ export default function Home(): React.ReactElement {
 
       <Filtros
         diaSeleccionado={diaSeleccionado}
+        distanciaMaxKm={distanciaMaxKm}
         ordenarPor={ordenarPor}
         onDiaChange={setDiaSeleccionado}
+        onDistanciaChange={setDistanciaMaxKm}
         onOrdenarChange={setOrdenarPor}
       />
 
