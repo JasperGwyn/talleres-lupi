@@ -42,12 +42,14 @@ git push -u origin main
 
 ### Opción 2: Vercel CLI
 
-```bash
-npx vercel
-```
-
-Cuando pregunte el nombre del proyecto, usa `talleres-pcb`. Para producción:
+Deploy a producción:
 
 ```bash
 npx vercel --prod
+```
+
+El proyecto publica en **`https://talleres-lupi.vercel.app`**. Para que también responda en **`https://talleres-pcb.vercel.app`** (sin renombrar el proyecto):
+
+```bash
+npx vercel alias set talleres-lupi.vercel.app talleres-pcb.vercel.app
 ```
