@@ -1,0 +1,362 @@
+[
+  {
+    "centro": "A. Storni",
+    "direccion": "Tucumán 3233",
+    "barrio": "Balvanera",
+    "lat": -34.60036,
+    "lng": -58.4113705,
+    "kmDesdeCharcas3445": 1.2
+  },
+  {
+    "centro": "Alfonsina Storni",
+    "direccion": "Tucumán 3233",
+    "barrio": "Balvanera",
+    "lat": -34.60036,
+    "lng": -58.4113705,
+    "kmDesdeCharcas3445": 1.2
+  },
+  {
+    "centro": "Belgrano R",
+    "direccion": "La Pampa 3855",
+    "barrio": "Villa Urquiza",
+    "lat": -34.5729348,
+    "lng": -58.468789,
+    "kmDesdeCharcas3445": 5.3
+  },
+  {
+    "centro": "Colegiales",
+    "direccion": "Conde 943",
+    "barrio": "Colegiales",
+    "lat": -34.5763116,
+    "lng": -58.4521695,
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "centro": "Barrio Rivadavia",
+    "direccion": "Av. Cobo y Curapaligüe",
+    "barrio": "Flores",
+    "lat": -34.633,
+    "lng": -58.461,
+    "kmDesdeCharcas3445": 6.5
+  },
+  {
+    "centro": "Baldomero F. Moreno",
+    "direccion": "Mercedes 1405",
+    "barrio": "Floresta",
+    "lat": -34.6214695,
+    "lng": -58.492317,
+    "kmDesdeCharcas3445": 7.9
+  },
+  {
+    "centro": "A. Troilo",
+    "direccion": "Gorriti 5740",
+    "barrio": "Palermo",
+    "lat": -34.5838579,
+    "lng": -58.4387365,
+    "kmDesdeCharcas3445": 2.3
+  },
+  {
+    "centro": "Aníbal Troilo",
+    "direccion": "Gorriti 5740",
+    "barrio": "Palermo",
+    "lat": -34.5838579,
+    "lng": -58.4387365,
+    "kmDesdeCharcas3445": 2.3
+  },
+  {
+    "centro": "Artes del Parque Chacabuco",
+    "direccion": "Cachimayo 1657",
+    "barrio": "Parque Chacabuco",
+    "lat": -34.6382088,
+    "lng": -58.4365403,
+    "kmDesdeCharcas3445": 5.7
+  },
+  {
+    "centro": "Barrio Copello",
+    "direccion": "Av. Dellepiane Norte 4900",
+    "barrio": "Villa Lugano",
+    "lat": -34.672,
+    "lng": -58.478,
+    "kmDesdeCharcas3445": 11.5
+  },
+  {
+    "centro": "CEPNA",
+    "direccion": "Murguiondo 3915",
+    "barrio": "Villa Lugano",
+    "lat": -34.6743448,
+    "lng": -58.4793153,
+    "kmDesdeCharcas3445": 11.1
+  },
+  {
+    "centro": "H. Manzi",
+    "direccion": "Tilcara 3365",
+    "barrio": "Pompeya",
+    "lat": -34.6546539,
+    "lng": -58.4204081,
+    "kmDesdeCharcas3445": 7.2
+  },
+  {
+    "centro": "Homero Manzi",
+    "direccion": "Tilcara 3365",
+    "barrio": "Pompeya",
+    "lat": -34.6546539,
+    "lng": -58.4204081,
+    "kmDesdeCharcas3445": 7.2
+  },
+  {
+    "centro": "Elías Castelnuovo",
+    "direccion": "Montiel 1041",
+    "barrio": "Liniers",
+    "lat": -34.6506181,
+    "lng": -58.5257787,
+    "kmDesdeCharcas3445": 12.2
+  },
+  {
+    "centro": "Devoto",
+    "direccion": "Nueva York 4169",
+    "barrio": "Devoto",
+    "lat": -34.6010687,
+    "lng": -58.5133889,
+    "kmDesdeCharcas3445": 9.2
+  },
+  {
+    "centro": "El Eternauta",
+    "direccion": "Eleodoro Lobos 437",
+    "barrio": "Caballito",
+    "lat": -34.6128519,
+    "lng": -58.4362406,
+    "kmDesdeCharcas3445": 3.2
+  },
+  {
+    "centro": "Julio Cortázar",
+    "direccion": "O'Higgins 3050",
+    "barrio": "Núñez",
+    "lat": -34.5511594,
+    "lng": -58.4609334,
+    "kmDesdeCharcas3445": 6.1
+  },
+  {
+    "centro": "Discepolín",
+    "direccion": "Tronador 4134",
+    "barrio": "Saavedra",
+    "lat": -34.5528188,
+    "lng": -58.4868055,
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "centro": "Fortunato Lacámera",
+    "direccion": "Av. San Juan 353",
+    "barrio": "San Telmo",
+    "lat": -34.6215296,
+    "lng": -58.3701819,
+    "kmDesdeCharcas3445": 5.3
+  },
+  {
+    "centro": "El Taller",
+    "direccion": "Elpidio González 4967",
+    "barrio": "Montecastro",
+    "lat": -34.6240162,
+    "lng": -58.5054433,
+    "kmDesdeCharcas3445": 9.2
+  },
+  {
+    "centro": "Juan Carlos Castagnino",
+    "direccion": "Av. Gral. Paz y 2 de Abril",
+    "barrio": "Villa Lugano",
+    "lat": -34.668,
+    "lng": -58.472,
+    "kmDesdeCharcas3445": 11.2
+  },
+  {
+    "centro": "Eladia Blázquez",
+    "direccion": "Av. Rabanal 2275",
+    "barrio": "Villa Soldati",
+    "lat": -34.659476,
+    "lng": -58.428805,
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "centro": "Lola Mora",
+    "direccion": "Río de Janeiro 986",
+    "barrio": "Caballito",
+    "lat": -34.604156,
+    "lng": -58.4322667,
+    "kmDesdeCharcas3445": 2.3
+  },
+  {
+    "centro": "O. Pugliese",
+    "direccion": "Aráoz 234",
+    "barrio": "Villa Crespo",
+    "lat": -34.601,
+    "lng": -58.4389504,
+    "kmDesdeCharcas3445": 2.6
+  },
+  {
+    "centro": "Osvaldo Pugliese",
+    "direccion": "Aráoz 234",
+    "barrio": "Villa Crespo",
+    "lat": -34.601,
+    "lng": -58.4389504,
+    "kmDesdeCharcas3445": 2.6
+  },
+  {
+    "centro": "La Casita de la Selva",
+    "direccion": "La Selva 4022",
+    "barrio": "Vélez Sarsfield",
+    "lat": -34.6378921,
+    "lng": -58.4822659,
+    "kmDesdeCharcas3445": 8.2
+  },
+  {
+    "centro": "M. Fernández",
+    "direccion": "Martiniano Leguizamón 1470",
+    "barrio": "Mataderos",
+    "lat": -34.6524841,
+    "lng": -58.5082718,
+    "kmDesdeCharcas3445": 11
+  },
+  {
+    "centro": "Macedonio Fernández",
+    "direccion": "Martiniano Leguizamón 1470",
+    "barrio": "Mataderos",
+    "lat": -34.6524841,
+    "lng": -58.5082718,
+    "kmDesdeCharcas3445": 11
+  },
+  {
+    "centro": "L. Spilimbergo",
+    "direccion": "Roque Pérez 3545",
+    "barrio": "Saavedra",
+    "lat": -34.555509,
+    "lng": -58.4780431,
+    "kmDesdeCharcas3445": 7
+  },
+  {
+    "centro": "Lino Spilimbergo",
+    "direccion": "Roque Pérez 3545",
+    "barrio": "Saavedra",
+    "lat": -34.555509,
+    "lng": -58.4780431,
+    "kmDesdeCharcas3445": 7
+  },
+  {
+    "centro": "La Usina",
+    "direccion": "Santo Domingo 2752",
+    "barrio": "Barracas",
+    "lat": -34.6536046,
+    "lng": -58.3852346,
+    "kmDesdeCharcas3445": 7.5
+  },
+  {
+    "centro": "Nuestra Tierra",
+    "direccion": "Iriarte y Pasaje Padre Daniel de la Sierra S/N",
+    "barrio": "Barracas",
+    "lat": -34.648,
+    "lng": -58.388,
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "centro": "La Paternal",
+    "direccion": "Caracas 1249",
+    "barrio": "Villa General Mitre",
+    "lat": -34.6161309,
+    "lng": -58.4671323,
+    "kmDesdeCharcas3445": 5.6
+  },
+  {
+    "centro": "Nicolás Olivari",
+    "direccion": "Castro 954",
+    "barrio": "Boedo",
+    "lat": -34.6239154,
+    "lng": -58.4200472,
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "centro": "Olímpico",
+    "direccion": "Av. Escalada 4600",
+    "barrio": "Villa Lugano",
+    "lat": -34.6603538,
+    "lng": -58.4171206,
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "centro": "A. Olmedo",
+    "direccion": "Luis Viale 1052",
+    "barrio": "Caballito",
+    "lat": -34.6026909,
+    "lng": -58.4446226,
+    "kmDesdeCharcas3445": 3.1
+  },
+  {
+    "centro": "Alberto Olmedo",
+    "direccion": "Luis Viale 1052",
+    "barrio": "Caballito",
+    "lat": -34.6026909,
+    "lng": -58.4446226,
+    "kmDesdeCharcas3445": 3.1
+  },
+  {
+    "centro": "Sebastián Piana",
+    "direccion": "Puán 360",
+    "barrio": "Caballito",
+    "lat": -34.626982,
+    "lng": -58.447118,
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "centro": "R. Arlt",
+    "direccion": "Av. Avellaneda 2547",
+    "barrio": "Flores",
+    "lat": -34.6247653,
+    "lng": -58.466814,
+    "kmDesdeCharcas3445": 6.2
+  },
+  {
+    "centro": "Roberto Arlt",
+    "direccion": "Av. Avellaneda 2547",
+    "barrio": "Flores",
+    "lat": -34.6247653,
+    "lng": -58.466814,
+    "kmDesdeCharcas3445": 6.2
+  },
+  {
+    "centro": "Tato Bores",
+    "direccion": "Soler 3929",
+    "barrio": "Palermo",
+    "lat": -34.5918943,
+    "lng": -58.4171897,
+    "kmDesdeCharcas3445": 0.3
+  },
+  {
+    "centro": "Versalles",
+    "direccion": "Bruselas 785",
+    "barrio": "Versalles",
+    "lat": -34.6285006,
+    "lng": -58.5224338,
+    "kmDesdeCharcas3445": 10.8
+  },
+  {
+    "centro": "Saladiyo",
+    "direccion": "Berón de Astrada 5920",
+    "barrio": "Villa Lugano",
+    "lat": -34.6900558,
+    "lng": -58.5276186,
+    "kmDesdeCharcas3445": 15.2
+  },
+  {
+    "centro": "R. Santoro",
+    "direccion": "Giribone 1961",
+    "barrio": "Villa Ortúzar",
+    "lat": -34.5793298,
+    "lng": -58.4690154,
+    "kmDesdeCharcas3445": 5.2
+  },
+  {
+    "centro": "Roberto Santoro",
+    "direccion": "Giribone 1961",
+    "barrio": "Villa Ortúzar",
+    "lat": -34.5793298,
+    "lng": -58.4690154,
+    "kmDesdeCharcas3445": 5.2
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "nombre": "GUITARRA",
+    "dia": "LUNES",
+    "horario": "19:30 - 21:00",
+    "edad": "niños",
+    "centro": "Artes del Parque Chacabuco",
+    "barrio": "Parque Chacabuco"
+  },
+  {
+    "nombre": "TEATRO",
+    "dia": "LUNES",
+    "horario": "18:00 - 21:00",
+    "edad": "niños",
+    "centro": "Artes del Parque Chacabuco",
+    "barrio": "Parque Chacabuco"
+  },
+  {
+    "nombre": "JUGARTE",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Artes del Parque Chacabuco",
+    "barrio": "Parque Chacabuco"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "LUNES",
+    "horario": "19:30 - 21:00",
+    "edad": "niños",
+    "centro": "Artes del Parque Chacabuco",
+    "barrio": "Parque Chacabuco"
+  },
+  {
+    "nombre": "COREOS POP INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Colegiales",
+    "barrio": "Colegiales"
+  },
+  {
+    "nombre": "DANZAS ÁRABES INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 18:45",
+    "edad": "niños",
+    "centro": "Colegiales",
+    "barrio": "Colegiales"
+  },
+  {
+    "nombre": "JUEGOS TEATRALES",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 18:40",
+    "edad": "niños",
+    "centro": "Colegiales",
+    "barrio": "Colegiales"
+  },
+  {
+    "nombre": "JUEGOS TEATRALES",
+    "dia": "MIÉRCOLES",
+    "horario": "18:40 - 19:15",
+    "edad": "niños",
+    "centro": "Colegiales",
+    "barrio": "Colegiales"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MARTES",
+    "horario": "16:30 - 17:45",
+    "edad": "niños",
+    "centro": "El Taller",
+    "barrio": "Montecastro"
+  },
+  {
+    "nombre": "CANTO INFANTIL",
+    "dia": "MARTES",
+    "horario": "16:30 - 17:30",
+    "edad": "niños",
+    "centro": "El Taller",
+    "barrio": "Montecastro"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Eladia Blázquez",
+    "barrio": "Villa Soldati"
+  },
+  {
+    "nombre": "DANZA ÁRABE",
+    "dia": "JUEVES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Eladia Blázquez",
+    "barrio": "Villa Soldati"
+  },
+  {
+    "nombre": "RITMOS CARIBEÑOS NIÑOS",
+    "dia": "MARTES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Elías Castelnuovo",
+    "barrio": "Liniers"
+  },
+  {
+    "nombre": "ARTESANÍAS",
+    "dia": "MARTES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "Elías Castelnuovo",
+    "barrio": "Liniers"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "VIERNES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Elías Castelnuovo",
+    "barrio": "Liniers"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "H. Manzi",
+    "barrio": "Pompeya"
+  },
+  {
+    "nombre": "JUEGOS TEATRALES",
+    "dia": "MIÉRCOLES",
+    "horario": "19:30 - 21:00",
+    "edad": "niños",
+    "centro": "H. Manzi",
+    "barrio": "Pompeya"
+  },
+  {
+    "nombre": "DANZAS CLÁSICAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:20",
+    "edad": "niños",
+    "centro": "H. Manzi",
+    "barrio": "Pompeya"
+  },
+  {
+    "nombre": "DANZAS CLÁSICAS INFANTIL  MIÉRCOLES 19:30 a 21:00h 6 DANZAS ÁRABES INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 20:45",
+    "edad": "niños",
+    "centro": "H. Manzi",
+    "barrio": "Pompeya"
+  },
+  {
+    "nombre": "DANZAS URBANAS",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "Juan Carlos Castagnino",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "DANZAS URBANAS",
+    "dia": "LUNES",
+    "horario": "19:15 - 20:15",
+    "edad": "niños",
+    "centro": "Juan Carlos Castagnino",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "CLUB DE LECTURA",
+    "dia": "LUNES",
+    "horario": "18:30 - 21:00",
+    "edad": "niños",
+    "centro": "Juan Carlos Castagnino",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "CERÁMICA",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Juan Carlos Castagnino",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "CERÁMICA LUNES 19:30 a 21:00h 6 PERCUSIÓN LUNES 18:00 a 19:15h 7 BATERÍA LUNES 19:30 a 21:00h 8 DANZAS CLÁSICAS INICIAL",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Juan Carlos Castagnino",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "JUEGOS TEATRALES",
+    "dia": "MARTES",
+    "horario": "18:00 - 20:00",
+    "edad": "niños",
+    "centro": "Julio Cortázar",
+    "barrio": "Núñez"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MARTES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "Julio Cortázar",
+    "barrio": "Núñez"
+  },
+  {
+    "nombre": "TÉCNICA VOCAL",
+    "dia": "MARTES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "Julio Cortázar",
+    "barrio": "Núñez"
+  },
+  {
+    "nombre": "ACROBACIA",
+    "dia": "MARTES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "Julio Cortázar",
+    "barrio": "Núñez"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "LUNES",
+    "horario": "17:00 - 18:15",
+    "edad": "niños",
+    "centro": "La Casita de la Selva",
+    "barrio": "Vélez Sarsfield"
+  },
+  {
+    "nombre": "TÍTERES INFANTIL I",
+    "dia": "LUNES",
+    "horario": "17:00 - 18:15",
+    "edad": "niños",
+    "centro": "La Casita de la Selva",
+    "barrio": "Vélez Sarsfield"
+  },
+  {
+    "nombre": "TÍTERES INFANTIL II",
+    "dia": "LUNES",
+    "horario": "18:15 - 20:00",
+    "edad": "niños",
+    "centro": "La Casita de la Selva",
+    "barrio": "Vélez Sarsfield"
+  },
+  {
+    "nombre": "MAGIA INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "17:00 - 18:30",
+    "edad": "niños",
+    "centro": "La Casita de la Selva",
+    "barrio": "Vélez Sarsfield"
+  },
+  {
+    "nombre": "CIRCO Y CLOWN INFANTIL I  MIÉRCOLES 17:00 a 18:15h 6 CIRCO Y CLOWN INFANTIL II",
+    "dia": "MIÉRCOLES",
+    "horario": "18:30 - 20:45",
+    "edad": "niños",
+    "centro": "La Casita de la Selva",
+    "barrio": "Vélez Sarsfield"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "VIERNES",
+    "horario": "17:30 - 18:30",
+    "edad": "niños",
+    "centro": "Lola Mora",
+    "barrio": "Caballito"
+  },
+  {
+    "nombre": "DANZAS CLÁSICAS",
+    "dia": "VIERNES",
+    "horario": "17:30 - 18:30",
+    "edad": "niños",
+    "centro": "Lola Mora",
+    "barrio": "Caballito"
+  },
+  {
+    "nombre": "DANZA CREATIVA",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "M. Fernández",
+    "barrio": "Mataderos"
+  },
+  {
+    "nombre": "DANZAS URBANAS",
+    "dia": "MIÉRCOLES",
+    "horario": "19:00 - 20:15",
+    "edad": "niños",
+    "centro": "M. Fernández",
+    "barrio": "Mataderos"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "M. Fernández",
+    "barrio": "Mataderos"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "19:00 - 20:15",
+    "edad": "niños",
+    "centro": "M. Fernández",
+    "barrio": "Mataderos"
+  },
+  {
+    "nombre": "JUEGOS TEATRALES",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:00",
+    "edad": "niños",
+    "centro": "M. Fernández",
+    "barrio": "Mataderos"
+  },
+  {
+    "nombre": "DANZA ÁRABE",
+    "dia": "LUNES",
+    "horario": "18:00 - 18:45",
+    "edad": "niños",
+    "centro": "Nicolás Olivari",
+    "barrio": "Boedo"
+  },
+  {
+    "nombre": "DANZA ÁRABE",
+    "dia": "LUNES",
+    "horario": "19:00 - 19:45",
+    "edad": "niños",
+    "centro": "Nicolás Olivari",
+    "barrio": "Boedo"
+  },
+  {
+    "nombre": "DANZAS AFROPERUANAS",
+    "dia": "LUNES",
+    "horario": "19:00 - 19:45",
+    "edad": "niños",
+    "centro": "Nicolás Olivari",
+    "barrio": "Boedo"
+  },
+  {
+    "nombre": "DANZAS BRASILERAS",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Nuestra Tierra",
+    "barrio": "Barracas"
+  },
+  {
+    "nombre": "DANZAS BRASILERAS",
+    "dia": "MIÉRCOLES",
+    "horario": "19:30 - 21:00",
+    "edad": "niños",
+    "centro": "Nuestra Tierra",
+    "barrio": "Barracas"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Nuestra Tierra",
+    "barrio": "Barracas"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "19:30 - 21:00",
+    "edad": "niños",
+    "centro": "Nuestra Tierra",
+    "barrio": "Barracas"
+  },
+  {
+    "nombre": "DANZAS ÁRABES",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "Nuestra Tierra",
+    "barrio": "Barracas"
+  },
+  {
+    "nombre": "MURGA",
+    "dia": "JUEVES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "O. Pugliese",
+    "barrio": "Villa Crespo"
+  },
+  {
+    "nombre": "TEATRO INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "O. Pugliese",
+    "barrio": "Villa Crespo"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "O. Pugliese",
+    "barrio": "Villa Crespo"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:00",
+    "edad": "niños",
+    "centro": "Olímpico",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "DANZAS URBANAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:00",
+    "edad": "niños",
+    "centro": "Olímpico",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:00",
+    "edad": "niños",
+    "centro": "Olímpico",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "CANTO",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "R. Arlt",
+    "barrio": "Flores"
+  },
+  {
+    "nombre": "TEATRO",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "R. Arlt",
+    "barrio": "Flores"
+  },
+  {
+    "nombre": "DIBUJO Y PINTURA",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "R. Arlt",
+    "barrio": "Flores"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "17:15 - 18:30",
+    "edad": "niños",
+    "centro": "R. Santoro",
+    "barrio": "Villa Ortúzar"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:30 - 19:30",
+    "edad": "niños",
+    "centro": "R. Santoro",
+    "barrio": "Villa Ortúzar"
+  },
+  {
+    "nombre": "CÓMIC",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:30",
+    "edad": "niños",
+    "centro": "R. Santoro",
+    "barrio": "Villa Ortúzar"
+  },
+  {
+    "nombre": "DANZAS URBANAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:30",
+    "edad": "niños",
+    "centro": "R. Santoro",
+    "barrio": "Villa Ortúzar"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Saladiyo",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Saladiyo",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "GUITARRA INICIAL",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "Saladiyo",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MARTES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Saladiyo",
+    "barrio": "Villa Lugano"
+  },
+  {
+    "nombre": "GUITARRA INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Sebastián Piana",
+    "barrio": "Caballito"
+  },
+  {
+    "nombre": "TEATRO INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Sebastián Piana",
+    "barrio": "Caballito"
+  },
+  {
+    "nombre": "TEATRO MÚSICAL INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Sebastián Piana",
+    "barrio": "Caballito"
+  },
+  {
+    "nombre": "CÓMIC INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Sebastián Piana",
+    "barrio": "Caballito"
+  },
+  {
+    "nombre": "DANZAS URBANAS INFANTIL",
+    "dia": "VIERNES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "Tato Bores",
+    "barrio": "Palermo"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "VIERNES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "Tato Bores",
+    "barrio": "Palermo"
+  },
+  {
+    "nombre": "DANZA URBANA INFANTIL",
+    "dia": "MARTES",
+    "horario": "17:30 - 18:00",
+    "edad": "niños",
+    "centro": "Versalles",
+    "barrio": "Versalles"
+  },
+  {
+    "nombre": "DANZA URBANA INFANTIL",
+    "dia": "JUEVES",
+    "horario": "18:30 - 20:00",
+    "edad": "niños",
+    "centro": "Versalles",
+    "barrio": "Versalles"
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "JUEVES",
+    "horario": "17:30 - 18:30",
+    "edad": "niños",
+    "centro": "Versalles",
+    "barrio": "Versalles"
+  }
+]

@@ -1,0 +1,742 @@
+[
+  {
+    "nombre": "GUITARRA",
+    "dia": "LUNES",
+    "horario": "19:30 - 21:00",
+    "edad": "niños",
+    "centro": "Artes del Parque Chacabuco",
+    "barrio": "Parque Chacabuco",
+    "direccion": "Cachimayo 1657",
+    "kmDesdeCharcas3445": 5.7
+  },
+  {
+    "nombre": "TEATRO",
+    "dia": "LUNES",
+    "horario": "18:00 - 21:00",
+    "edad": "niños",
+    "centro": "Artes del Parque Chacabuco",
+    "barrio": "Parque Chacabuco",
+    "direccion": "Cachimayo 1657",
+    "kmDesdeCharcas3445": 5.7
+  },
+  {
+    "nombre": "JUGARTE",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Artes del Parque Chacabuco",
+    "barrio": "Parque Chacabuco",
+    "direccion": "Cachimayo 1657",
+    "kmDesdeCharcas3445": 5.7
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "LUNES",
+    "horario": "19:30 - 21:00",
+    "edad": "niños",
+    "centro": "Artes del Parque Chacabuco",
+    "barrio": "Parque Chacabuco",
+    "direccion": "Cachimayo 1657",
+    "kmDesdeCharcas3445": 5.7
+  },
+  {
+    "nombre": "COREOS POP INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Colegiales",
+    "barrio": "Colegiales",
+    "direccion": "Conde 943",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "DANZAS ÁRABES INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 18:45",
+    "edad": "niños",
+    "centro": "Colegiales",
+    "barrio": "Colegiales",
+    "direccion": "Conde 943",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "JUEGOS TEATRALES",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 18:40",
+    "edad": "niños",
+    "centro": "Colegiales",
+    "barrio": "Colegiales",
+    "direccion": "Conde 943",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "JUEGOS TEATRALES",
+    "dia": "MIÉRCOLES",
+    "horario": "18:40 - 19:15",
+    "edad": "niños",
+    "centro": "Colegiales",
+    "barrio": "Colegiales",
+    "direccion": "Conde 943",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MARTES",
+    "horario": "16:30 - 17:45",
+    "edad": "niños",
+    "centro": "El Taller",
+    "barrio": "Montecastro",
+    "direccion": "Elpidio González 4967",
+    "kmDesdeCharcas3445": 9.2
+  },
+  {
+    "nombre": "CANTO INFANTIL",
+    "dia": "MARTES",
+    "horario": "16:30 - 17:30",
+    "edad": "niños",
+    "centro": "El Taller",
+    "barrio": "Montecastro",
+    "direccion": "Elpidio González 4967",
+    "kmDesdeCharcas3445": 9.2
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Eladia Blázquez",
+    "barrio": "Villa Soldati",
+    "direccion": "Av. Rabanal 2275",
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "nombre": "DANZA ÁRABE",
+    "dia": "JUEVES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Eladia Blázquez",
+    "barrio": "Villa Soldati",
+    "direccion": "Av. Rabanal 2275",
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "nombre": "RITMOS CARIBEÑOS NIÑOS",
+    "dia": "MARTES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Elías Castelnuovo",
+    "barrio": "Liniers",
+    "direccion": "Montiel 1041",
+    "kmDesdeCharcas3445": 12.2
+  },
+  {
+    "nombre": "ARTESANÍAS",
+    "dia": "MARTES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "Elías Castelnuovo",
+    "barrio": "Liniers",
+    "direccion": "Montiel 1041",
+    "kmDesdeCharcas3445": 12.2
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "VIERNES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Elías Castelnuovo",
+    "barrio": "Liniers",
+    "direccion": "Montiel 1041",
+    "kmDesdeCharcas3445": 12.2
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "H. Manzi",
+    "barrio": "Pompeya",
+    "direccion": "Tilcara 3365",
+    "kmDesdeCharcas3445": 7.2
+  },
+  {
+    "nombre": "JUEGOS TEATRALES",
+    "dia": "MIÉRCOLES",
+    "horario": "19:30 - 21:00",
+    "edad": "niños",
+    "centro": "H. Manzi",
+    "barrio": "Pompeya",
+    "direccion": "Tilcara 3365",
+    "kmDesdeCharcas3445": 7.2
+  },
+  {
+    "nombre": "DANZAS CLÁSICAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:20",
+    "edad": "niños",
+    "centro": "H. Manzi",
+    "barrio": "Pompeya",
+    "direccion": "Tilcara 3365",
+    "kmDesdeCharcas3445": 7.2
+  },
+  {
+    "nombre": "DANZAS CLÁSICAS INFANTIL  MIÉRCOLES 19:30 a 21:00h 6 DANZAS ÁRABES INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 20:45",
+    "edad": "niños",
+    "centro": "H. Manzi",
+    "barrio": "Pompeya",
+    "direccion": "Tilcara 3365",
+    "kmDesdeCharcas3445": 7.2
+  },
+  {
+    "nombre": "DANZAS URBANAS",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "Juan Carlos Castagnino",
+    "barrio": "Villa Lugano",
+    "direccion": "Av. Gral. Paz y 2 de Abril",
+    "kmDesdeCharcas3445": 11.2
+  },
+  {
+    "nombre": "DANZAS URBANAS",
+    "dia": "LUNES",
+    "horario": "19:15 - 20:15",
+    "edad": "niños",
+    "centro": "Juan Carlos Castagnino",
+    "barrio": "Villa Lugano",
+    "direccion": "Av. Gral. Paz y 2 de Abril",
+    "kmDesdeCharcas3445": 11.2
+  },
+  {
+    "nombre": "CLUB DE LECTURA",
+    "dia": "LUNES",
+    "horario": "18:30 - 21:00",
+    "edad": "niños",
+    "centro": "Juan Carlos Castagnino",
+    "barrio": "Villa Lugano",
+    "direccion": "Av. Gral. Paz y 2 de Abril",
+    "kmDesdeCharcas3445": 11.2
+  },
+  {
+    "nombre": "CERÁMICA",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Juan Carlos Castagnino",
+    "barrio": "Villa Lugano",
+    "direccion": "Av. Gral. Paz y 2 de Abril",
+    "kmDesdeCharcas3445": 11.2
+  },
+  {
+    "nombre": "CERÁMICA LUNES 19:30 a 21:00h 6 PERCUSIÓN LUNES 18:00 a 19:15h 7 BATERÍA LUNES 19:30 a 21:00h 8 DANZAS CLÁSICAS INICIAL",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Juan Carlos Castagnino",
+    "barrio": "Villa Lugano",
+    "direccion": "Av. Gral. Paz y 2 de Abril",
+    "kmDesdeCharcas3445": 11.2
+  },
+  {
+    "nombre": "JUEGOS TEATRALES",
+    "dia": "MARTES",
+    "horario": "18:00 - 20:00",
+    "edad": "niños",
+    "centro": "Julio Cortázar",
+    "barrio": "Núñez",
+    "direccion": "O'Higgins 3050",
+    "kmDesdeCharcas3445": 6.1
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MARTES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "Julio Cortázar",
+    "barrio": "Núñez",
+    "direccion": "O'Higgins 3050",
+    "kmDesdeCharcas3445": 6.1
+  },
+  {
+    "nombre": "TÉCNICA VOCAL",
+    "dia": "MARTES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "Julio Cortázar",
+    "barrio": "Núñez",
+    "direccion": "O'Higgins 3050",
+    "kmDesdeCharcas3445": 6.1
+  },
+  {
+    "nombre": "ACROBACIA",
+    "dia": "MARTES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "Julio Cortázar",
+    "barrio": "Núñez",
+    "direccion": "O'Higgins 3050",
+    "kmDesdeCharcas3445": 6.1
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "LUNES",
+    "horario": "17:00 - 18:15",
+    "edad": "niños",
+    "centro": "La Casita de la Selva",
+    "barrio": "Vélez Sarsfield",
+    "direccion": "La Selva 4022",
+    "kmDesdeCharcas3445": 8.2
+  },
+  {
+    "nombre": "TÍTERES INFANTIL I",
+    "dia": "LUNES",
+    "horario": "17:00 - 18:15",
+    "edad": "niños",
+    "centro": "La Casita de la Selva",
+    "barrio": "Vélez Sarsfield",
+    "direccion": "La Selva 4022",
+    "kmDesdeCharcas3445": 8.2
+  },
+  {
+    "nombre": "TÍTERES INFANTIL II",
+    "dia": "LUNES",
+    "horario": "18:15 - 20:00",
+    "edad": "niños",
+    "centro": "La Casita de la Selva",
+    "barrio": "Vélez Sarsfield",
+    "direccion": "La Selva 4022",
+    "kmDesdeCharcas3445": 8.2
+  },
+  {
+    "nombre": "MAGIA INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "17:00 - 18:30",
+    "edad": "niños",
+    "centro": "La Casita de la Selva",
+    "barrio": "Vélez Sarsfield",
+    "direccion": "La Selva 4022",
+    "kmDesdeCharcas3445": 8.2
+  },
+  {
+    "nombre": "CIRCO Y CLOWN INFANTIL I  MIÉRCOLES 17:00 a 18:15h 6 CIRCO Y CLOWN INFANTIL II",
+    "dia": "MIÉRCOLES",
+    "horario": "18:30 - 20:45",
+    "edad": "niños",
+    "centro": "La Casita de la Selva",
+    "barrio": "Vélez Sarsfield",
+    "direccion": "La Selva 4022",
+    "kmDesdeCharcas3445": 8.2
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "VIERNES",
+    "horario": "17:30 - 18:30",
+    "edad": "niños",
+    "centro": "Lola Mora",
+    "barrio": "Caballito",
+    "direccion": "Río de Janeiro 986",
+    "kmDesdeCharcas3445": 2.3
+  },
+  {
+    "nombre": "DANZAS CLÁSICAS",
+    "dia": "VIERNES",
+    "horario": "17:30 - 18:30",
+    "edad": "niños",
+    "centro": "Lola Mora",
+    "barrio": "Caballito",
+    "direccion": "Río de Janeiro 986",
+    "kmDesdeCharcas3445": 2.3
+  },
+  {
+    "nombre": "DANZA CREATIVA",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "M. Fernández",
+    "barrio": "Mataderos",
+    "direccion": "Martiniano Leguizamón 1470",
+    "kmDesdeCharcas3445": 11
+  },
+  {
+    "nombre": "DANZAS URBANAS",
+    "dia": "MIÉRCOLES",
+    "horario": "19:00 - 20:15",
+    "edad": "niños",
+    "centro": "M. Fernández",
+    "barrio": "Mataderos",
+    "direccion": "Martiniano Leguizamón 1470",
+    "kmDesdeCharcas3445": 11
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "M. Fernández",
+    "barrio": "Mataderos",
+    "direccion": "Martiniano Leguizamón 1470",
+    "kmDesdeCharcas3445": 11
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "19:00 - 20:15",
+    "edad": "niños",
+    "centro": "M. Fernández",
+    "barrio": "Mataderos",
+    "direccion": "Martiniano Leguizamón 1470",
+    "kmDesdeCharcas3445": 11
+  },
+  {
+    "nombre": "JUEGOS TEATRALES",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:00",
+    "edad": "niños",
+    "centro": "M. Fernández",
+    "barrio": "Mataderos",
+    "direccion": "Martiniano Leguizamón 1470",
+    "kmDesdeCharcas3445": 11
+  },
+  {
+    "nombre": "DANZA ÁRABE",
+    "dia": "LUNES",
+    "horario": "18:00 - 18:45",
+    "edad": "niños",
+    "centro": "Nicolás Olivari",
+    "barrio": "Boedo",
+    "direccion": "Castro 954",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "DANZA ÁRABE",
+    "dia": "LUNES",
+    "horario": "19:00 - 19:45",
+    "edad": "niños",
+    "centro": "Nicolás Olivari",
+    "barrio": "Boedo",
+    "direccion": "Castro 954",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "DANZAS AFROPERUANAS",
+    "dia": "LUNES",
+    "horario": "19:00 - 19:45",
+    "edad": "niños",
+    "centro": "Nicolás Olivari",
+    "barrio": "Boedo",
+    "direccion": "Castro 954",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "DANZAS BRASILERAS",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Nuestra Tierra",
+    "barrio": "Barracas",
+    "direccion": "Iriarte y Pasaje Padre Daniel de la Sierra S/N",
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "nombre": "DANZAS BRASILERAS",
+    "dia": "MIÉRCOLES",
+    "horario": "19:30 - 21:00",
+    "edad": "niños",
+    "centro": "Nuestra Tierra",
+    "barrio": "Barracas",
+    "direccion": "Iriarte y Pasaje Padre Daniel de la Sierra S/N",
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Nuestra Tierra",
+    "barrio": "Barracas",
+    "direccion": "Iriarte y Pasaje Padre Daniel de la Sierra S/N",
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "19:30 - 21:00",
+    "edad": "niños",
+    "centro": "Nuestra Tierra",
+    "barrio": "Barracas",
+    "direccion": "Iriarte y Pasaje Padre Daniel de la Sierra S/N",
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "nombre": "DANZAS ÁRABES",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "Nuestra Tierra",
+    "barrio": "Barracas",
+    "direccion": "Iriarte y Pasaje Padre Daniel de la Sierra S/N",
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "nombre": "MURGA",
+    "dia": "JUEVES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "O. Pugliese",
+    "barrio": "Villa Crespo",
+    "direccion": "Aráoz 234",
+    "kmDesdeCharcas3445": 2.6
+  },
+  {
+    "nombre": "TEATRO INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 20:15",
+    "edad": "niños",
+    "centro": "O. Pugliese",
+    "barrio": "Villa Crespo",
+    "direccion": "Aráoz 234",
+    "kmDesdeCharcas3445": 2.6
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "O. Pugliese",
+    "barrio": "Villa Crespo",
+    "direccion": "Aráoz 234",
+    "kmDesdeCharcas3445": 2.6
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:00",
+    "edad": "niños",
+    "centro": "Olímpico",
+    "barrio": "Villa Lugano",
+    "direccion": "Av. Escalada 4600",
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "nombre": "DANZAS URBANAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:00",
+    "edad": "niños",
+    "centro": "Olímpico",
+    "barrio": "Villa Lugano",
+    "direccion": "Av. Escalada 4600",
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:00",
+    "edad": "niños",
+    "centro": "Olímpico",
+    "barrio": "Villa Lugano",
+    "direccion": "Av. Escalada 4600",
+    "kmDesdeCharcas3445": 7.8
+  },
+  {
+    "nombre": "CANTO",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "R. Arlt",
+    "barrio": "Flores",
+    "direccion": "Av. Avellaneda 2547",
+    "kmDesdeCharcas3445": 6.2
+  },
+  {
+    "nombre": "TEATRO",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "R. Arlt",
+    "barrio": "Flores",
+    "direccion": "Av. Avellaneda 2547",
+    "kmDesdeCharcas3445": 6.2
+  },
+  {
+    "nombre": "DIBUJO Y PINTURA",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "R. Arlt",
+    "barrio": "Flores",
+    "direccion": "Av. Avellaneda 2547",
+    "kmDesdeCharcas3445": 6.2
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "17:15 - 18:30",
+    "edad": "niños",
+    "centro": "R. Santoro",
+    "barrio": "Villa Ortúzar",
+    "direccion": "Giribone 1961",
+    "kmDesdeCharcas3445": 5.2
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:30 - 19:30",
+    "edad": "niños",
+    "centro": "R. Santoro",
+    "barrio": "Villa Ortúzar",
+    "direccion": "Giribone 1961",
+    "kmDesdeCharcas3445": 5.2
+  },
+  {
+    "nombre": "CÓMIC",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:30",
+    "edad": "niños",
+    "centro": "R. Santoro",
+    "barrio": "Villa Ortúzar",
+    "direccion": "Giribone 1961",
+    "kmDesdeCharcas3445": 5.2
+  },
+  {
+    "nombre": "DANZAS URBANAS INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "17:30 - 19:30",
+    "edad": "niños",
+    "centro": "R. Santoro",
+    "barrio": "Villa Ortúzar",
+    "direccion": "Giribone 1961",
+    "kmDesdeCharcas3445": 5.2
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Saladiyo",
+    "barrio": "Villa Lugano",
+    "direccion": "Berón de Astrada 5920",
+    "kmDesdeCharcas3445": 15.2
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Saladiyo",
+    "barrio": "Villa Lugano",
+    "direccion": "Berón de Astrada 5920",
+    "kmDesdeCharcas3445": 15.2
+  },
+  {
+    "nombre": "GUITARRA INICIAL",
+    "dia": "LUNES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "Saladiyo",
+    "barrio": "Villa Lugano",
+    "direccion": "Berón de Astrada 5920",
+    "kmDesdeCharcas3445": 15.2
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "MARTES",
+    "horario": "18:00 - 19:30",
+    "edad": "niños",
+    "centro": "Saladiyo",
+    "barrio": "Villa Lugano",
+    "direccion": "Berón de Astrada 5920",
+    "kmDesdeCharcas3445": 15.2
+  },
+  {
+    "nombre": "GUITARRA INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Sebastián Piana",
+    "barrio": "Caballito",
+    "direccion": "Puán 360",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "TEATRO INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Sebastián Piana",
+    "barrio": "Caballito",
+    "direccion": "Puán 360",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "TEATRO MÚSICAL INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Sebastián Piana",
+    "barrio": "Caballito",
+    "direccion": "Puán 360",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "CÓMIC INFANTIL",
+    "dia": "MIÉRCOLES",
+    "horario": "18:00 - 19:15",
+    "edad": "niños",
+    "centro": "Sebastián Piana",
+    "barrio": "Caballito",
+    "direccion": "Puán 360",
+    "kmDesdeCharcas3445": 3.8
+  },
+  {
+    "nombre": "DANZAS URBANAS INFANTIL",
+    "dia": "VIERNES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "Tato Bores",
+    "barrio": "Palermo",
+    "direccion": "Soler 3929",
+    "kmDesdeCharcas3445": 0.3
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS INFANTIL",
+    "dia": "VIERNES",
+    "horario": "18:00 - 19:00",
+    "edad": "niños",
+    "centro": "Tato Bores",
+    "barrio": "Palermo",
+    "direccion": "Soler 3929",
+    "kmDesdeCharcas3445": 0.3
+  },
+  {
+    "nombre": "DANZA URBANA INFANTIL",
+    "dia": "MARTES",
+    "horario": "17:30 - 18:00",
+    "edad": "niños",
+    "centro": "Versalles",
+    "barrio": "Versalles",
+    "direccion": "Bruselas 785",
+    "kmDesdeCharcas3445": 10.8
+  },
+  {
+    "nombre": "DANZA URBANA INFANTIL",
+    "dia": "JUEVES",
+    "horario": "18:30 - 20:00",
+    "edad": "niños",
+    "centro": "Versalles",
+    "barrio": "Versalles",
+    "direccion": "Bruselas 785",
+    "kmDesdeCharcas3445": 10.8
+  },
+  {
+    "nombre": "ARTES PLÁSTICAS",
+    "dia": "JUEVES",
+    "horario": "17:30 - 18:30",
+    "edad": "niños",
+    "centro": "Versalles",
+    "barrio": "Versalles",
+    "direccion": "Bruselas 785",
+    "kmDesdeCharcas3445": 10.8
+  }
+]
